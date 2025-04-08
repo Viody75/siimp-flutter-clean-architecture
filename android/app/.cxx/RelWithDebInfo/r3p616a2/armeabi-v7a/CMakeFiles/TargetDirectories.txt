@@ -1,0 +1,2 @@
+/Users/viodyalfairizi/Documents/Projects/0_projects_study/flutter/siimp-clean-architecture/siimp_clean_architecture/android/app/.cxx/RelWithDebInfo/r3p616a2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/viodyalfairizi/Documents/Projects/0_projects_study/flutter/siimp-clean-architecture/siimp_clean_architecture/android/app/.cxx/RelWithDebInfo/r3p616a2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

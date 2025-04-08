@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/viodyalfairizi/.shorebird/bin/cache/flutter/b14323b05f28b2c72b34f57c8059ec3001d65712/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/viodyalfairizi/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/viodyalfairizi/Documents/Projects/0_projects_study/flutter/siimp-clean-architecture/siimp_clean_architecture/android/app/.cxx/RelWithDebInfo/r3p616a2/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/viodyalfairizi/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/viodyalfairizi/Documents/Projects/0_projects_study/flutter/siimp-clean-architecture/siimp_clean_architecture/android/app/.cxx/RelWithDebInfo/r3p616a2/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

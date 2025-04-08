@@ -1,0 +1,1 @@
+/Users/viodyalfairizi/Documents/Projects/0_projects_study/flutter/siimp-clean-architecture/siimp_clean_architecture/build/app/intermediates/cxx/RelWithDebInfo/r3p616a2/obj/x86
